@@ -6,9 +6,9 @@ const MealsSummary = () => {
       <h2>
 BEST FOOD WITH THE MOST VARIETY</h2>
       <p>
-      Left wing
-      Right wing
-      Chicken wing
+      Left wing <br></br>
+      Right wing<br></br>
+      Chicken wing<br></br>
       </p>
    
     </section>
