@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import Header from './components/Layout/Header';
 import Meals from './components/Meals/Meals';
@@ -21,7 +21,7 @@ function App() {
     <CartProvider>
       {cartIsShown && <Cart onClose={hideCartHandler} />}
 
-    <Header/>
+    <Header onShowCart={showCartHandler} onClose={hideCartHandler}/>
 
     <main>
       <Meals/>
