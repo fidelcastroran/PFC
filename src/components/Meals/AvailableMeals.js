@@ -10,7 +10,7 @@ const DUMMY_MEALS = [
     },
     {
       id: "m2",
-      name: "KEVIN'S BACON",
+      name: "GARLIC SPICY WINGS",
       description: "Bbq sauce, thin cut, chicken wings, chili seasoning, garlic",
       price: 17.5,
     },
@@ -28,8 +28,8 @@ const DUMMY_MEALS = [
     },
     {
       id: "m5",
-      name: "Fried chicken",
-      description: "Special crispy chicken.",
+      name: "FRIED ASIAN WINGS",
+      description: "Special crispy & spicy chicken with green chilli and ginger.",
       price: 17.99,
     },
     {
