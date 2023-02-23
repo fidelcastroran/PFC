@@ -6,8 +6,9 @@ const MealsSummary = () => {
       <h2>
 BEST FOOD WITH THE MOST VARIETY</h2>
       <p>
-        Choose your favorite meal from our broad selection of available meals
-        and enjoy a delicious lunch or dinner at home.
+      Left wing
+      Right wing
+      Chicken wing
       </p>
    
     </section>
